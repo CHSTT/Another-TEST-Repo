@@ -114,7 +114,7 @@
       <config-value name="autohelpstart">0</config-value>
       <config-value name="autohelpincrement">1</config-value>
       <config-value name="autohelpanchor">0</config-value>
-      <config-value name="searchpath">.\;.\TPimg\;.\TPsnippets\;.\TPimg02\;.\TPimg03\;.\TPsnippets02\;.\TPsnippets03\</config-value>
+      <config-value name="searchpath">..\..\..\..\..\01 Stuff\Help and Manual\TEST\;.\img\TPimg\;.\img\TPimg02\;.\img\TPimg03\;.\snippets\TPsnippets\;.\snippets\TPsnippets02\;.\snippets\TPsnippets03\</config-value>
       <config-value name="imageshortcuts_includebaggage">1</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
