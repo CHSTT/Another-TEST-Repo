@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Introduction</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Introduction</text></para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Our Needs</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">In our Help Files, it’s crucial to conditional tag not only on topic level, but text, images, variables, and snippets within the topics too.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">We have several clients using our software. The core of the software is the same for all clients, but some of features within the software are specific to clients.</text></para>
+    <list id="30" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-weight:bold;" translate="true">Client A</text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">, </text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-weight:bold;" translate="true">Client B</text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">, and </text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-weight:bold;" translate="true">Client C</text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true"> all use a the same software product, but in some areas the User Interface (UI) looks different. This means Client A might have more options to select from on a window than </text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-weight:bold;" translate="true">Client C</text><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">So 80% of the content on a topic applies to Client A,B, and C but the issue comes in with the remaining 20% that differs between Client A,B, and C.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">So instead of creating three separate topics, it’s easier to have one topic and conditional tag the 20% of content that differs between the clients.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading1"><text styleclass="Heading1" translate="true">The Example</text></para>
+    <para styleclass="Normal"></para>
+    <list id="31" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">Three images (Man – Client A, Speaker – Client B, Green Tick – Client C).</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">The images represent the differences between the three client UI.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">This means, the feature is the same for all clients, but their UI looks different.</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">For this scenario, let’s assume the field name of the checkbox is different too (Name1, Name2, and Name3). This affects the text as well.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
