@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Edit Menu</title>
+<topic template="Default" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Edit Menu</title>
   <body>
-    <header><para styleclass="Heading1">Edit Menu</para></header>
-    <para styleclass="Normal">Enter topic text here.</para>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Edit Menu</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">add image</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="img03.png" scale="100.00%" styleclass="Image Caption"></image></para>
   </body>
 </topic>
