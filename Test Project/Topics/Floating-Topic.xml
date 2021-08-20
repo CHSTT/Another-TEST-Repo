@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Floating Topic</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Floating Topic</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Floating topic</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="unicorn-5939500_960_720.png" scale="67.66%" width="396" height="338" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-indent:-44px; margin-left:44px;"><image src="arCollapsed00.png" scale="100.00%" styleclass="Normal"></image><tab /><toggle type="dropdown" id="999" print-expanded="true" help-expanded="false" defaultstyle="false" translate="true" src-collapsed="arCollapsed00.png" src-expanded="arExpanded11.png" src-print="none" styleclass="Normal" style="font-family:&apos;Segoe UI&apos;; font-size:16pt; font-weight:bold;"><caption translate="true"><![CDATA[Anchor Test inside Toggle]]></caption></toggle></para>
+    <para styleclass="Normal" style="text-indent:-44px; margin-left:44px;"><table styleclass="Default" rowcount="1" colcount="1">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"></para>
+          <para styleclass="Normal"><anchor id="Lorem" styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;"></anchor><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</text></para>
+          <para styleclass="Normal"></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:&apos;Segoe UI&apos;;" translate="true">Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

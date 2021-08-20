@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Floating Topic</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Floating Topic</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Floating topic</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="unicorn-5939500_960_720.png" scale="67.66%" width="396" height="338" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Status01" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Snippets</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Snippets</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Snippet 01</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><snippet src="file::SNIP001.xml" inline="false"/></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Snippet 02</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><snippet src="file::SNIP002.xml" inline="false"/></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">Snippet 03</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><snippet src="file::SNIP003.xml" inline="false"/></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
