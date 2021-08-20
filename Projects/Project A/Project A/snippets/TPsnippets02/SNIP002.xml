@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="cherbst" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Snippet01</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Snippet 02</text></para>
+    </header>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="1" colcount="1" style="width:100%; cell-padding:2px; cell-spacing:2px; background-color:#67c3ef;">
+      <tr style="vertical-align:top">
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-size:14pt; font-weight:bold;" translate="true">Note:</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">THIS IS SNIPPET 02</para>
+          <para styleclass="Normal"></para>
+         </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
